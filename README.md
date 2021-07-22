@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @nikhilmr2000
+- 👋 Hi, I’m Nikhil @nikhilmr2000
 - 👀 I’m interested in Web designing, Game development
 - 🌱 I’m currently learning Web designing and game development with unity
 - 💞️ I’m looking to collaborate on ...
