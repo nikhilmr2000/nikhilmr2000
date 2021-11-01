@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Nikhil @nikhilmr2000
-- 👀 I’m interested in Web designing, Game development
+- 👀 I’m interested in Programming,Application Development and Game development
 - 🌱 I’m currently learning Web designing and game development with unity
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me nickrockz2000@gmail.com
