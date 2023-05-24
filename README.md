@@ -2,7 +2,8 @@
 - 🤓I am a Java Full Stack Developer
 - 👀 I’m interested in Programming,Application Development and Game development
 - 🌱 I’m currently learning Web designing and game development with unity
-- 💞️ I’m looking to collaborate on ...
+
+
 - 📫 How to reach me https://www.linkedin.com/in/nikhil-m-r-90444b215/
 - Blog Writer @ https://nikhil4blog.wordpress.com/
 
